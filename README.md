@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alexnesnidal
 - 👀 I’m interested in utilizing Python to analyze renewable energy data
-- 🌱 I’m currently learning Python pandas, numpy, matlib
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python pandas, numpy, matplotlib
+- 📫 How to reach me alexnesnidal@gmail.com
 
 <!---
 alexnesnidal/alexnesnidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
